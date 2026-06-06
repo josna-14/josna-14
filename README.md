@@ -2,9 +2,8 @@
   RECOMMENDATION: Please set C:\Users\sjosn\.gemini\antigravity\scratch\github-profile-readme as your active workspace.
   This README was designed with a premium, retro-futuristic pixel-art theme.
 -->
-
 <p align="center">
-  <img src="[./pixel_art_banner.png](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQzejUzNDhndWRub3cwbDhwbmt2YW02cWt0azlpMGxxYjcxMDN6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LZTcawH3mc8V2oUqk/giphy.gif)" alt="Pixel Art Banner" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQzejUzNDhndWRub3cwbDhwbmt2YW02cWt0azlpMGxxYjcxMDN6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LZTcawH3mc8V2oUqk/giphy.gif" alt="Pixel Art Banner" width="100%" />
 </p>
 
 <p align="center">
