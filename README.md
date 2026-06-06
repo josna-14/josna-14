@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="./pixel_art_banner.png" alt="Pixel Art Banner" width="100%" />
+  <img src="[./pixel_art_banner.png](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQzejUzNDhndWRub3cwbDhwbmt2YW02cWt0azlpMGxxYjcxMDN6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LZTcawH3mc8V2oUqk/giphy.gif)" alt="Pixel Art Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -70,18 +70,6 @@
 
 ---
 
-## 📈 GitHub Stats & Trophies
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=josna-14&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josna-14&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josna-14&theme=darkhub&no-bg=true&margin-w=10" />
-</p>
-
----
 
 ## 📬 Contact Me
 
